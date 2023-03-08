@@ -1,0 +1,1 @@
+Looks like the pureComponentCounter.js is performing little faster and more effcient than the simpleCounterComponent.js. Since PureComponent implements the shouldComponentUpdate method for us, we don't need to define it ourselves.
